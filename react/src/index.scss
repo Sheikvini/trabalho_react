@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: font1;  
+  }
+
+
+@font-face {
+  font-family: font1;
+  src: url(../public/images/font/Roboto-Medium.ttf);
+}
+
+@font-face {
+  font-family: fontpok;
+  src: url(../public/images/font/Pokemon-Hollow.ttf);
+}
+
+@font-face {
+  font-family: fontpok1;
+  src: url(../public/images/font/Pokemon-Solid.ttf);
+}
